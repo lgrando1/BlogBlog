@@ -1,0 +1,4 @@
+baseURL = "https://lgrando1.github.io"
+languageCode = "en-us"
+title = "Leonardo Grando Site"
+theme = 'lugo'
