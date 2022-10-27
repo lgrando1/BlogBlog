@@ -28,7 +28,7 @@ Segue abaixo uma lista de links que eu utilizo para aprender. Este post é uma l
 - Primeiramente, um muito obrigado aos responsáveis pelos sites presentes nesta lista.
 - Em caso de Sugestões de novos recursos ou correções, por favor me informe.
 - Eu desejo grande aprendizado para você.
-- Total de links: 23
+- Total de links: 24
 
 
 ___
@@ -43,6 +43,10 @@ Links para te manter informado.
 | [Slashdot](https://slashdot.org/) |
 | ----------- | 
 | 👉   Fonte de notícias sobre tecnologia |
+
+| [Awesome Lists](https://github.com/sindresorhus/awesome) |
+| ----------- |
+| 👉  Conjunto de listas sobre tópicos interessantes |
  
 
 ___
@@ -78,10 +82,9 @@ Links sobre aprendizado em programação em geral.
 | ----------- | 
 |  👉  Lista de guias para suportar o aprendizado de desenvolvedores |
 
-| [Universidade-Livre/Ciencia-da-computacao/](https://github.com/Universidade-Livre/ciencia-da-computacao/) |
+| [Universidade-Livre/Ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao/) |
 | ----------- |
 | 👉  Guia brasileiro para aprendizado autodidata em ciência da computação |
-
 
 ___ 
 

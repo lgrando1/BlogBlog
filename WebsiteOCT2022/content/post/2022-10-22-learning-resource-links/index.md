@@ -27,7 +27,7 @@ Follow below a resource list that I use to learn. This post is an organic list.
 - First, a great thanks to all resources responsible cited in this.
 - Any resource suggestions or corrections, let me know.
 - I wish great learning to you.
-- Total links: 23
+- Total links: 24
 
 
 ___
@@ -43,6 +43,10 @@ Links to inform you.
 | [Slashdot](https://slashdot.org/) |
 | ----------- | 
 | 👉  News source of technology  |
+
+| [Awesome Lists](https://github.com/sindresorhus/awesome) |
+| ----------- |
+| 👉  Lists of awesome and interesting topics |
  
 
 ___

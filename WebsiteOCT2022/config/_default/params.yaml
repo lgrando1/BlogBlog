@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: earth
+  theme_night: earth
+  font: earth
+  font_size: XL
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: '@lgrando123'
+    description: 'Welcome to Leonardo Grando Website'
+    twitter: 'lgrando123'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
