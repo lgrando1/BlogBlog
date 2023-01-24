@@ -157,6 +157,8 @@ Links about Data visualization tools.
 
 ---
 
+[Comment](https://twitter.com/lgrando123/status/1585695353919111185)
+
 <sub> Revision control: <sub>
 
 <sub>   v3 - 25/10/2022 - Start portuguese version, inclusion 4 items <sub>

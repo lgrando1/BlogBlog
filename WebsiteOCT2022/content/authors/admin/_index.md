@@ -1,3 +1,4 @@
+            
 ---
 bio: My research interests include Agent-Based Simulation, Artificial Intelligence, Machine Learning.
 education:
@@ -5,6 +6,9 @@ education:
   - course: Technology Ph.D. Student.
     institution: UNICAMP - Limeira Campus
     year: 2021 - 2025
+  - course: Technologist - System Analysis and Development.
+    institution: UNICID
+    year: 2023 - 2025
   - course: Sc.M. in Technology
     institution: UNICAMP - Limeira Campus
     year: 2020
@@ -32,33 +36,36 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lgrando1
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/lgrando123
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lgrando1
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lgrando123
-- icon: facebook
+- icon: mastodon
   icon_pack: fab
-  link: https://www.facebook.com/lgrando123
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=cXC9OsoAAAAJ&hl
+  link: https://sciencemastodon.com/@lgrando123
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/lgrando123
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.com/citations?user=cXC9OsoAAAAJ&hl
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Leonardo-Grando
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0448-209X
-- icon: rss
-  icon_pack: fas
-  link: https://lgrando1.github.io/index.xml
+#- icon: rss
+#  icon_pack: fas
+#  link: https://lgrando1.github.io/index.xml
 superuser: true
 title: Leonardo Grando
 ---
@@ -66,8 +73,8 @@ title: Leonardo Grando
 Leonardo Grando is a Ph.D. Student at the University of Campinas (UNICAMP) in Brazil. I am interested in complex systems, agent-based simulation, artificial intelligence, the Internet of Things, programming, and machine learning tools.
 I have expertise in Netlogo, Python, R, Latex, SQL, and Linux tools.
 
-My Ph.D. work project is an IoT devices (UAVs) swarm agent-based modeling simulation (ABMS) aiming the perpetual flight. The workflow is **Netlogo** to ABMS simulate, **Python** and **R** to data analysis, and I use **Latex** for my thesis writing.
+My Ph.D. work project is an IoT devices (UAVs) swarm agent-based modeling simulation (ABMS) aiming the perpetual flight. The workflow is **Netlogo** to ABMS simulate, **Python** and **R** to data analysis, and I use **LaTeX** for my thesis writing.
 
 I started my career change from the automotive industry as a productivity improvement professional to the academic and data science field in 2019. After this career change, I worked as a teacher in fundamental and high school and as a teaching intern at the undergraduate level. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resumeEN.pdf" "newtab" >}}resumé{{< /staticref >}}.

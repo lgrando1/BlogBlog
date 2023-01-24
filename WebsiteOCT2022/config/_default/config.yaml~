@@ -76,4 +76,9 @@ sitemap:
 minify:
   _merge: deep
   
-
+  
+# In _config.yml
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    bibtex_bibfiles: "/home/leonardogrando/Documentos/Git/WebsiteOCT2022/content/post/refs.bib"

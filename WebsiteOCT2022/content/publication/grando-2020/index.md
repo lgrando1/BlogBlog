@@ -35,17 +35,16 @@ abstract: This work seeks to address one of the most critical problems of Flying
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Drones, Simulation, Agent-Based, Nash Equilibrium]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
+links:
 #- name: Custom Link
 #   url: https://ieeexplore.ieee.org/document/9284939/
-
-# url_pdf: 'https://ieeexplore.ieee.org/document/9284939/'
+url_pdf: 'https://ieeexplore.ieee.org/document/9284939/'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

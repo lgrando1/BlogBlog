@@ -86,7 +86,7 @@ item:
     date_start: '2022-10-01'
     description: "- Duration: 11 hours 
     
-                  - How to use education new technology in fundamental and high scholl class.
+                  - How to use education new technologies in fundamental and high scholl classes.
                   
                   - Computational thinking, maker fabs, arduino and others tools.
                   
@@ -96,34 +96,26 @@ item:
     title: Escola 4.0 Educação e Cultura Maker no Contexto da Nova BNCC
     url: https://www.coursera.org/learn/escola4pontozero
 
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/HR2D5EXLF8M7
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/UBJF3V4MNKF5
     date_end: ''
-    date_start: '2022-09-01'
-    description: "- Duration: 38 hours 
+    date_start: '2022-11-01'
+    description: " Integrated 4 Courses Program (120 Hours): 
     
-                  - How to setup a Python environment and how to use VIM and VS Code.
-                  
-                  - Python libraries to data maniputation.
-                  
-                  - Course 1/4 - Python, Bash and SQL Essentials for Data Engineering"   
+                    - Python and Pandas for Data Engineering
+                    
+                    - Linux and Bash for Data Engineering
+                    
+                    - Scripting with Python and SQL for Data Engineering
+                    
+                    - Web Applications and Command-Line Tools for Data Engineering"   
     organization: Coursera
     organization_url: https://www.coursera.org¨
-    title: Python and Pandas for Data Engineering
-    url: https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke
+    title: Python, Bash and SQL Essentials for Data Engineering
+    url: https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke
 
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/CMH4WU72NMQQ
-    date_end: ''
-    date_start: '2022-10-01'
-    description: "- Duration: 22 hours 
+
     
-                  - How to setup linux tools and bash to data manipulation.
-              
-                  - Course 2/4 - Python, Bash and SQL Essentials for Data Engineering"  
-    organization: Coursera
-    organization_url: https://www.coursera.org¨
-    title: Linux and Bash for Data Engineering
-    url: https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke
-    
+
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FXPG9CKFXRV7
     date_end: ''
     date_start: '2022-08-01'
@@ -260,6 +252,15 @@ item:
     organization_url: https://www.udemy.com
     title: 'Séries Temporais com Python: O Curso Completo'
     url: 'https://www.udemy.com/course/series-temporais-com-python/'
+    
+  - certificate_url: https://campusvirtual.fiocruz.br/gestordecursos/hotsite/cvf-node-30225-submission-1356/$1$XtR/
+    date_end: 
+    date_start: '2022-11-01'
+    description: ''
+    organization: Fiocruz
+    organization_url: https://mooc.campusvirtual.fiocruz.br/
+    title: 'Propriedade intelectual aplicada à ciência aberta'
+    url: 'https://campusvirtual.fiocruz.br/gestordecursos/hotsite/cvf-node-30225-submission-1356'
     
 design:
   columns: '2'

@@ -154,6 +154,8 @@ Links sobre ferramentas para Visualização de dados.
 
 ---
 
+[Comente](https://twitter.com/lgrando123/status/1585695353919111185)
+
 <sub> Revision control: <sub>
 
 <sub>   v3 - 25/10/2022 - início do post em portugues, inclusão de 4 items <sub>
